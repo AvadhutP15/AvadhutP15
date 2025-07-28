@@ -9,5 +9,5 @@
 ```yaml
 Frontend     : Angular, Ionic, RxJS, NgRx, TypeScript, HTML, SCSS  
 Backend      : Java, Spring Boot, Hibernate, REST APIs  
-Database     : PostgreSQL, CouchDB, PouchDB  
+Database     : MySQL, CouchDB, PouchDB  
 Tools & CI   : Git, Postman, Maven  
