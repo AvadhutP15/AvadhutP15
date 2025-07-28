@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Avadhut Patil</h1>
+<h3 align="center">🚀 Full Stack Developer | Angular & Spring Boot Enthusiast | Tech Problem Solver</h3>
 
-<!--
-**AvadhutP15/AvadhutP15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+- 🔭 **Currently working as Product Developer I @ American Bureau of Shipping**
+- 👨‍💻 **2+ years of experience** in full stack development (Angular, Java, Spring Boot)
+### 🛠️ Tech Stack
+```yaml
+Frontend     : Angular, Ionic, RxJS, NgRx, TypeScript, HTML, SCSS  
+Backend      : Java, Spring Boot, Hibernate, REST APIs  
+Database     : PostgreSQL, CouchDB, PouchDB  
+Tools & CI   : Git, Postman, Maven  
