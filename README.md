@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 - 🔭 **Currently working as Product Developer I @ American Bureau of Shipping**
-- 👨‍💻 **2+ years of experience** in full stack development (Angular, Java, Spring Boot)
+- 👨‍💻 **3+ years of experience** in full stack development (Angular, Java, Spring Boot)
 ### 🛠️ Tech Stack
 ```yaml
 Frontend     : Angular, Ionic, RxJS, NgRx, TypeScript, HTML, SCSS  
